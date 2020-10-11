@@ -1,0 +1,9 @@
+Windows Machines
+openjdk 8
+lein.bat
+https://raw.githubusercontent.com/technomancy/leiningen/stable/bin/lein.bat
+# add to $PATH
+
+VS code
+- calva
+- github
